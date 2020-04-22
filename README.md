@@ -1,4 +1,4 @@
-# basic-timer
+# [basic-timer](https://shubhamkumar96.github.io/basic-timer/)
 A Basic Timer built using JavaScript
 
 ## Built With
